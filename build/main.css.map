@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://home-task2/./src/App.css"],"names":[],"mappings":"AAAA;EACE,4BAA4B;AAC9B,C","file":"main.css","sourcesContent":[".container {\n  background-color: aquamarine;\n}"],"sourceRoot":""}
